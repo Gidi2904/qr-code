@@ -1,0 +1,15 @@
+{
+  "name": "wee5b",
+  "version": "1.0.0",
+  "description": "css html ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "goodness":"tailwindcss -i ./goodness.css -o ./damola.css --watch"
+  },
+  "author": "Goodness",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
